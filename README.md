@@ -8,7 +8,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <ссылка на репозиторий>
+git clone <https://github.com/vvdviktoria20-debug/practice-automation-tests>
 cd automation-project
 ```
 
